@@ -1,0 +1,20 @@
+
+Project Name: Covid-19 Data Dashboard Creation Using Power BI. ( Analysis on Asia Continent Countries )
+
+
+1. Top 10 Countries by Total Cases.
+2. New Cases by Countries.
+3. Total Deaths by Countries.
+4. Total Cases by Yearly & Countries.
+5. Median Age affect ratio Continent & Countries Wise.
+
+CARDS: 6. Total Cases
+       7. New Cases 
+       8. Total Deaths 
+
+Slicer: Countries Wise Data Show.
+
+
+Project Collection From ( Data Visionary YouTube Channel )
+
+ 
